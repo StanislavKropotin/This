@@ -1,0 +1,9 @@
+pip install scrapy
+
+cd news
+
+В терминал для запуска: scrapy crawl spider
+
+Результат в файле news.csv
+
+Пока так, но надо допиливать
